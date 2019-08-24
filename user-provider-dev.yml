@@ -20,4 +20,4 @@ eureka:
     prefer-ip-address: true
  
 test:
-  message: caicaiwoshishei wo shi ni baba
+  message: caicaiwoshishei wo shi ni baba shuozhende
